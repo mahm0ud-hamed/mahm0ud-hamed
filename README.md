@@ -7,7 +7,7 @@ Embedded software enginneer
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mahmoudmohamedhmd@gmail.com](mailto:mahmoudmohamedhmd@gmail.com)
 
-<img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4c212YjZ4eGw4NmJqczQxemYycGxxYjlyNzV6cG4wejNzcWV3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
 
 ### Skills
 
