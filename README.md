@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/mahmud-hamed1997"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 
 - 💬 Ask me about **C programming, C++ OOP, MCU interfacing**
 
