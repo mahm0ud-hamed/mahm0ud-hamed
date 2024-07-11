@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mahmoudmohamedhmd@gmail.com](mailto:mahmoudmohamedhmd@gmail.com)
 
-<img align="right" alt="Coding" width="400" src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4c212YjZ4eGw4NmJqczQxemYycGxxYjlyNzV6cG4wejNzcWV3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif](https://ioflood.com/blog/wp-content/uploads/2023/12/Linux-terminal-screen-displaying-the-alias-command-for-creating-command-shortcuts-with-shortcut-symbols-and-command-line-interface-icons-300x300.jpg.webp)">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4c212YjZ4eGw4NmJqczQxemYycGxxYjlyNzV6cG4wejNzcWV3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
 
 ### Skills
 
