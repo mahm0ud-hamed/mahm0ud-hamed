@@ -18,11 +18,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.9904edd13385a566935d2374bc4de60a?rik=rU0vlxwbpMMPfA&pid=ImgRaw&r=0.png" width="36" height="36" alt="Android" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.KO8RKl1dXH7v18wmdt8h0QHaDt?rs=1&pid=ImgDetMain.png" width="36" height="36" alt="Bash" /></a>
-<a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Linux_Logo.svg/1200px-Linux_Logo.svg.png" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.kernel.org/doc/html/latest/admin-guide/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Linux_Administration_logo.svg/800px-Linux_Administration_logo.svg.png" width="36" height="36" alt="Linux Administration" /></a>
+<a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.Cc4Tb5Aa6x6MZrkn7eqAhgHaIL?rs=1&pid=ImgDetMain.png" width="36" height="36" alt="Linux" /></a>
 <a href="https://source.android.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Android_robot_2020.svg/1200px-Android_robot_2020.svg.png" width="36" height="36" alt="AOSP Customization" /></a>
 <a href="https://github.com/google/soong" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Soong_logo.png/1200px-Soong_logo.png" width="36" height="36" alt="Soong" /></a>
-<a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Make_logo.svg/800px-Make_logo.svg.png" width="36" height="36" alt="Make" /></a>
+<a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.mDW9FUjWYrXhT9t5l41CvAHaHa?rs=1&pid=ImgDetMain.png" width="36" height="36" alt="Make" /></a>
 </p>
 
 ### Socials
