@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahmoud Hamed
 =====================================================================================================================================
 
- Embedded Software Engineer
+ Android Automotive Software Engineer
 ---------------------------
 * 🌍  I'm based in Egypt
-* ✉️  You can contact me at [mahmoudmohamedhmd@gmail.com](mailto:mahmoudmohamedhmd@gmail.com)
+* ✉️  Find me :  [mahmoudmohamedhmd@gmail.com](mailto:mahmoudmohamedhmd@gmail.com)
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4c212YjZ4eGw4NmJqczQxemYycGxxYjlyNzV6cG4wejNzcWV3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
 
@@ -27,13 +27,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Socials
 
 <p align="left">
-<a href="https://www.github.com/mahm0ud-hamed" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </picture>
-</a>
+
 <a href="https://www.linkedin.com/in/mahmud-hamed1997" target="_blank" rel="noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
